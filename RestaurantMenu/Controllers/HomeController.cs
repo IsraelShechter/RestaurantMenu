@@ -4,9 +4,11 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using RestaurantMenu.Models;
+using RestaurantMenu.UI.Models;
+using RestaurantMenu.UI.Repository;
+using RestaurantMenu.UI.Service;
 
-namespace RestaurantMenu.Controllers
+namespace RestaurantMenu.UI.Controllers
 {
     public class HomeController : Controller
     {
@@ -15,18 +17,16 @@ namespace RestaurantMenu.Controllers
             return View();
         }
 
-        public IActionResult About()
+        public IActionResult Menu()
         {
-            ViewData["Message"] = "Your application description page.";
-
+            ViewBag.isEditable = false;
             return View();
         }
 
-        public IActionResult Contact()
+        public IActionResult EditableMenu()
         {
-            ViewData["Message"] = "Your contact page.";
-
-            return View();
+            ViewBag.isEditable = true;
+            return View("Menu");
         }
 
         public IActionResult Error()

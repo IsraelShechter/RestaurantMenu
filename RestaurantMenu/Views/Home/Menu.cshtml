@@ -1,0 +1,66 @@
+﻿
+@{
+    ViewData["Title"] = "Menu";
+}
+<h1 class="text-right">
+    תפריט
+</h1>
+<a asp-action="Index">חזרה לדף הבית</a>
+<div class="row mt-3">
+    <div class="col-md-6 col-sm-12 mb-3">
+        <select class="form-control" id="mainSelect" value="0">
+            <option value="0">
+                ארוחת בוקר
+            </option>
+            <option value="1">
+                ארוחת צהרים
+            </option>
+            <option value="2">
+                ארוחת ערב
+            </option>
+        </select>
+
+
+    </div>
+    <div class="col-md-6 col-sm-12 mb-3">
+        @if (ViewBag.isEditable)
+        {
+            <button class="btn btn-outline-dark form-control" id="showMenuEditable">
+                הצג
+            </button>
+
+        }
+        else
+        {
+            <button class="btn btn-outline-dark form-control" id="showMenu">
+                הצג
+            </button>
+
+        }
+    </div>
+</div>
+<table class="table text-right">
+    <thead>
+        <tr>
+            <th>שם המנה</th>
+            <th>מחיר</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>
+                כדי לצפות במנות יש לבחור ארוחה ולהקליק על "הצג"
+            </td>
+        </tr>
+    </tbody>
+</table>
+@if (ViewBag.isEditable)
+{
+
+    <button class="btn btn-success bmd-btn-fab plus-btn float-right mt-3 mr-5" data-toggle="modal" data-target="#addServingModal">
+        <span>+</span>
+    </button>
+}
+
+@Html.Partial("Modal", new ModalViewModel { id = "addServingModal", title="הוספת מנה", mealId ="newMeal", nameId="newName", priceId="newPrice", nameErrorId = "nameError", submitId = "addMealBtn", submitTxt="הוסף מנה" })
+@Html.Partial("Modal", new ModalViewModel { id = "editServingModal", title = "עריכת מנה", mealId = "editMeal", nameId = "editName", priceId = "editPrice", nameErrorId = "nameErrorEdit", submitId = "editMealBtn", submitTxt = "ערוך מנה" })

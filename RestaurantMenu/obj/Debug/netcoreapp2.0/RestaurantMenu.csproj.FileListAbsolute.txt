@@ -1,0 +1,11 @@
+C:\Users\israels\Documents\RestaurantMenu\RestaurantMenu\bin\Debug\netcoreapp2.0\RestaurantMenu.deps.json
+C:\Users\israels\Documents\RestaurantMenu\RestaurantMenu\bin\Debug\netcoreapp2.0\RestaurantMenu.runtimeconfig.json
+C:\Users\israels\Documents\RestaurantMenu\RestaurantMenu\bin\Debug\netcoreapp2.0\RestaurantMenu.runtimeconfig.dev.json
+C:\Users\israels\Documents\RestaurantMenu\RestaurantMenu\bin\Debug\netcoreapp2.0\RestaurantMenu.dll
+C:\Users\israels\Documents\RestaurantMenu\RestaurantMenu\bin\Debug\netcoreapp2.0\RestaurantMenu.pdb
+C:\Users\israels\Documents\RestaurantMenu\RestaurantMenu\obj\Debug\netcoreapp2.0\RestaurantMenu.csprojAssemblyReference.cache
+C:\Users\israels\Documents\RestaurantMenu\RestaurantMenu\obj\Debug\netcoreapp2.0\RestaurantMenu.csproj.CoreCompileInputs.cache
+C:\Users\israels\Documents\RestaurantMenu\RestaurantMenu\obj\Debug\netcoreapp2.0\RestaurantMenu.AssemblyInfoInputs.cache
+C:\Users\israels\Documents\RestaurantMenu\RestaurantMenu\obj\Debug\netcoreapp2.0\RestaurantMenu.AssemblyInfo.cs
+C:\Users\israels\Documents\RestaurantMenu\RestaurantMenu\obj\Debug\netcoreapp2.0\RestaurantMenu.dll
+C:\Users\israels\Documents\RestaurantMenu\RestaurantMenu\obj\Debug\netcoreapp2.0\RestaurantMenu.pdb
