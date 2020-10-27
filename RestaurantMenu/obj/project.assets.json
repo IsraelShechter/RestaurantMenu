@@ -13878,11 +13878,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\israels\\Documents\\RestaurantMenu\\RestaurantMenu\\RestaurantMenu.UI.csproj",
+      "projectUniqueName": "C:\\Users\\israels\\Desktop\\RestaurantMenu\\RestaurantMenu\\RestaurantMenu.UI.csproj",
       "projectName": "RestaurantMenu.UI",
-      "projectPath": "C:\\Users\\israels\\Documents\\RestaurantMenu\\RestaurantMenu\\RestaurantMenu.UI.csproj",
+      "projectPath": "C:\\Users\\israels\\Desktop\\RestaurantMenu\\RestaurantMenu\\RestaurantMenu.UI.csproj",
       "packagesPath": "C:\\Users\\israels\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\israels\\Documents\\RestaurantMenu\\RestaurantMenu\\obj\\",
+      "outputPath": "C:\\Users\\israels\\Desktop\\RestaurantMenu\\RestaurantMenu\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13901,11 +13901,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\israels\\Documents\\RestaurantMenu\\RestaurantMenu.Repository\\RestaurantMenu.Repository.csproj": {
-              "projectPath": "C:\\Users\\israels\\Documents\\RestaurantMenu\\RestaurantMenu.Repository\\RestaurantMenu.Repository.csproj"
+            "C:\\Users\\israels\\Desktop\\RestaurantMenu\\RestaurantMenu.Repository\\RestaurantMenu.Repository.csproj": {
+              "projectPath": "C:\\Users\\israels\\Desktop\\RestaurantMenu\\RestaurantMenu.Repository\\RestaurantMenu.Repository.csproj"
             },
-            "C:\\Users\\israels\\Documents\\RestaurantMenu\\RestaurantMenu.Service\\RestaurantMenu.Service.csproj": {
-              "projectPath": "C:\\Users\\israels\\Documents\\RestaurantMenu\\RestaurantMenu.Service\\RestaurantMenu.Service.csproj"
+            "C:\\Users\\israels\\Desktop\\RestaurantMenu\\RestaurantMenu.Service\\RestaurantMenu.Service.csproj": {
+              "projectPath": "C:\\Users\\israels\\Desktop\\RestaurantMenu\\RestaurantMenu.Service\\RestaurantMenu.Service.csproj"
             }
           }
         }

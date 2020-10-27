@@ -1029,11 +1029,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\israels\\Documents\\RestaurantMenu\\RestaurantMenu.Repository\\RestaurantMenu.Repository.csproj",
+      "projectUniqueName": "C:\\Users\\israels\\Desktop\\RestaurantMenu\\RestaurantMenu.Repository\\RestaurantMenu.Repository.csproj",
       "projectName": "RestaurantMenu.Repository",
-      "projectPath": "C:\\Users\\israels\\Documents\\RestaurantMenu\\RestaurantMenu.Repository\\RestaurantMenu.Repository.csproj",
+      "projectPath": "C:\\Users\\israels\\Desktop\\RestaurantMenu\\RestaurantMenu.Repository\\RestaurantMenu.Repository.csproj",
       "packagesPath": "C:\\Users\\israels\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\israels\\Documents\\RestaurantMenu\\RestaurantMenu.Repository\\obj\\",
+      "outputPath": "C:\\Users\\israels\\Desktop\\RestaurantMenu\\RestaurantMenu.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

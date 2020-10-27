@@ -23,7 +23,11 @@ namespace RestaurantMenu.UI.Repository
             if (!File.Exists(pathToDataFile))
             {
                 Directory.CreateDirectory(Path.GetDirectoryName(pathToDataFile));
-                File.CreateText(pathToDataFile);
+                using (StreamWriter sw = File.CreateText(pathToDataFile))
+                {
+                    sw.WriteLine("[]");
+                }
+                    Seed();
                 
             }
         }

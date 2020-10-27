@@ -12,3 +12,17 @@ C:\Users\israels\Documents\RestaurantMenu\RestaurantMenu.Service\obj\Debug\netco
 C:\Users\israels\Documents\RestaurantMenu\RestaurantMenu.Service\obj\Debug\netcoreapp2.0\RestaurantMenu.Service.csproj.CopyComplete
 C:\Users\israels\Documents\RestaurantMenu\RestaurantMenu.Service\obj\Debug\netcoreapp2.0\RestaurantMenu.Service.dll
 C:\Users\israels\Documents\RestaurantMenu\RestaurantMenu.Service\obj\Debug\netcoreapp2.0\RestaurantMenu.Service.pdb
+C:\Users\israels\Desktop\RestaurantMenu\RestaurantMenu.Service\bin\Debug\netcoreapp2.0\RestaurantMenu.Service.deps.json
+C:\Users\israels\Desktop\RestaurantMenu\RestaurantMenu.Service\bin\Debug\netcoreapp2.0\RestaurantMenu.Service.dll
+C:\Users\israels\Desktop\RestaurantMenu\RestaurantMenu.Service\bin\Debug\netcoreapp2.0\RestaurantMenu.Service.pdb
+C:\Users\israels\Desktop\RestaurantMenu\RestaurantMenu.Service\bin\Debug\netcoreapp2.0\RestaurantMenu.Repository.dll
+C:\Users\israels\Desktop\RestaurantMenu\RestaurantMenu.Service\bin\Debug\netcoreapp2.0\Newtonsoft.Json.dll
+C:\Users\israels\Desktop\RestaurantMenu\RestaurantMenu.Service\bin\Debug\netcoreapp2.0\RestaurantMenu.Repository.pdb
+C:\Users\israels\Desktop\RestaurantMenu\RestaurantMenu.Service\bin\Debug\netcoreapp2.0\Newtonsoft.Json.xml
+C:\Users\israels\Desktop\RestaurantMenu\RestaurantMenu.Service\obj\Debug\netcoreapp2.0\RestaurantMenu.Service.csprojAssemblyReference.cache
+C:\Users\israels\Desktop\RestaurantMenu\RestaurantMenu.Service\obj\Debug\netcoreapp2.0\RestaurantMenu.Service.csproj.CoreCompileInputs.cache
+C:\Users\israels\Desktop\RestaurantMenu\RestaurantMenu.Service\obj\Debug\netcoreapp2.0\RestaurantMenu.Service.AssemblyInfoInputs.cache
+C:\Users\israels\Desktop\RestaurantMenu\RestaurantMenu.Service\obj\Debug\netcoreapp2.0\RestaurantMenu.Service.AssemblyInfo.cs
+C:\Users\israels\Desktop\RestaurantMenu\RestaurantMenu.Service\obj\Debug\netcoreapp2.0\RestaurantMenu.Service.csproj.CopyComplete
+C:\Users\israels\Desktop\RestaurantMenu\RestaurantMenu.Service\obj\Debug\netcoreapp2.0\RestaurantMenu.Service.dll
+C:\Users\israels\Desktop\RestaurantMenu\RestaurantMenu.Service\obj\Debug\netcoreapp2.0\RestaurantMenu.Service.pdb
